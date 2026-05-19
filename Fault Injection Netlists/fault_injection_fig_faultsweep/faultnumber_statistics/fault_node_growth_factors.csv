@@ -1,0 +1,4 @@
+fault_type,first_range,last_range,total_fault_nodes_first_range,total_fault_nodes_last_range,total_fault_nodes_growth_factor,mean_fault_nodes_per_graph_first_range,mean_fault_nodes_per_graph_last_range,mean_fault_nodes_per_graph_growth_factor
+bridging,100-500,1000-2000,8761.0,43167.0,4.927177262869535,292.03333333333336,1438.9,4.927177262869535
+glitch,100-500,1000-2000,7969.0,32287.0,4.051574852553645,265.6333333333333,1076.2333333333333,4.051574852553646
+stuck_at,100-500,1000-2000,7969.0,32287.0,4.051574852553645,265.6333333333333,1076.2333333333333,4.051574852553646

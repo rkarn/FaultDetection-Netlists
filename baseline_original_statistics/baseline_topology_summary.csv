@@ -1,0 +1,2 @@
+setting_label,graph_count,unique_netlists,total_nodes,total_edges,total_labeled_fault_nodes,mean_nodes_per_graph,median_nodes_per_graph,mean_edges_per_graph,median_edges_per_graph,mean_labeled_fault_nodes_per_graph,median_labeled_fault_nodes_per_graph,max_labeled_fault_nodes_per_graph,mean_fault_node_density_percent,mean_path_depth,max_path_depth,mean_dist_to_PO,max_dist_to_PO,max_fanout
+baseline_original,120,30,1717507,2574726,8347,14312.558333333332,1969.0,21456.05,2673.5,69.55833333333334,86.0,335,5.907038030618092,3.528398359170137,39,14.43125653583969,283,321
