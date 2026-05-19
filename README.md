@@ -844,7 +844,7 @@ A typical workflow is:
 If you use this repository, dataset, or code, please cite:
 
 ```bibtex
-@inproceedings{karn2026faultdate,
+@inproceedings{karn2026faultiolts,
   title        = {Interpretable GNNs for Fault Detection in Circuits},
   author       = {Karn, Rupesh Raj and Knechtel, Johann and Sinanoglu, Ozgur},
   booktitle    = {Proceedings of the 32nd IEEE International Symposium on On-Line Testing and Robust System Design},
